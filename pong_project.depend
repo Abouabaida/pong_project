@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1514144170 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 d:\userfiles\abouabid\desktop\pong\my_project\sdl 1.2\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1525351275 source:d:\userfiles\abouabid\desktop\pong\my_project\pong\pong.c
+	<stdlib.h>
+	<stdio.h>
+	"SDL/SDL.h"
+
+1525350767 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\testtext.c
+
+1525359871 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\pong.c
+	<stdlib.h>
+	<stdio.h>
+	"view.h"
+
+1525361968 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\view.c
+	"view.h"
+
+1525362716 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\controle.c
+	"view.h"
+
+1525362741 d:\userfiles\abouabid\desktop\pong\my_project\lastone\view.h
+	"SDL/SDL.h"
+
+1525360853 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\main.c
+	"view.h"
+
+1525362184 source:d:\userfiles\abouabid\desktop\pong\my_project\lastone\game.c
+	<stdlib.h>
+	<stdio.h>
+	"view.h"
+
+1525362184 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\game.c
+	<stdlib.h>
+	<stdio.h>
+	"view.h"
+
+1525362741 d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.h
+	"SDL/SDL.h"
+
+1525360853 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\main.c
+	"view.h"
+
+1525361968 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.c
+	"view.h"
+
+1525362770 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\controle.c
+	"view.h"
+
