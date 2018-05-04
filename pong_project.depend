@@ -223,20 +223,25 @@
 	<stdio.h>
 	"view.h"
 
-1525362184 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\game.c
+1525444278 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\game.c
 	<stdlib.h>
 	<stdio.h>
 	"view.h"
 
-1525362741 d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.h
+1525444081 d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.h
 	"SDL/SDL.h"
+	<SDL_ttf.h>
 
-1525360853 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\main.c
+1525444278 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\main.c
 	"view.h"
 
-1525361968 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.c
+1525444279 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.c
 	"view.h"
 
-1525362770 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\controle.c
+1525444678 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\controle.c
 	"view.h"
+
+1525444279 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\texttest.c
+	"SDL/SDL.h"
+	<SDL_ttf.h>
 
