@@ -68,7 +68,7 @@ void View_GameOver(game_t *game)
     }
 
     SDL_Color text_color = {255, 255, 255};
-    GameOver = TTF_RenderText_Solid(font, "PLayer Win the game",   text_color);
+    GameOver = TTF_RenderText_Solid(font, "Player win the game",   text_color);
 
     SDL_BlitSurface(GameOver, NULL, game->screen, NULL);
 }
@@ -92,7 +92,7 @@ int View_Init(game_t *game)
     }
 
     SDL_Color text_color = {255, 255, 255};
-    game->title = TTF_RenderText_Solid(font, "Welecome to Pong game : Press space bar to start playing",   text_color);
+    game->title = TTF_RenderText_Solid(font, "Welcome to Pong game : Press space bar to start playing",   text_color);
 
     if (game->title == NULL)
     {

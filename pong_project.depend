@@ -223,7 +223,7 @@
 	<stdio.h>
 	"view.h"
 
-1525444278 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\game.c
+1525623526 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\game.c
 	<stdlib.h>
 	<stdio.h>
 	"view.h"
@@ -235,10 +235,10 @@
 1525444278 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\main.c
 	"view.h"
 
-1525444279 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.c
+1525623467 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\view.c
 	"view.h"
 
-1525444678 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\controle.c
+1525622891 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\controle.c
 	"view.h"
 
 1525444279 source:d:\userfiles\abouabid\desktop\pong\my_project\pong_project\texttest.c

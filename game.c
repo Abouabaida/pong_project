@@ -69,7 +69,6 @@ int Game_Engine(game_t *game)
             SDL_Delay(600);
         }
         View_GameOver(game);
-
         break;
     default:
         break;

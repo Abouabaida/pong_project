@@ -77,11 +77,16 @@ void Controle_ball(game_t *game)
             if (hit_pos >= 53 && hit_pos <= 60)
                 game->ball.dy = -4;
             if (game->ball.dx > 0)
+            {
                 if (game->ball.x < 30)
                     game->ball.x = 30;
+            }
             else
-                if (game->ball.x > 600)
+             {
+
+               if (game->ball.x > 600)
                     game->ball.x = 600;
+             }
         }
     }
 }
@@ -93,14 +98,12 @@ int IsGameOver(game_t *game)
             game->score[0] = 0;
             game->score[1] = 0;
             return PLAYER_1_WIN;
-
         }
-        if (game->score[0] == 10 )
+        if (game->score[1] == 10 )
         {
             game->score[0] = 0;
             game->score[1] = 0;
             return PLAYER_2_WIN;
-
         }
     return NO_GAMEOVER;
 }
