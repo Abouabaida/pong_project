@@ -168,7 +168,7 @@ void move_paddle_enemy(game_t *game) {
 int get_Action(Uint8 *keystate,int16_t *my_id,int mode ){
 int key = -1;
    if((mode == SERVER_MODE) || (mode == CLIENT_MODE)) {
-      if (keystate[SDLK_d] && (*my_id == 0))
+      if (keystate[SDLK_d] && (*my_id == 0))// server
          key = KEY_DOWN;
       if (keystate[SDLK_e] && (*my_id == 0))
          key = KEY_UP;

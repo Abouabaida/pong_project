@@ -15,7 +15,6 @@ void send_to_server(int sock, struct sockaddr_in serv_addr, int16_t id, int16_t 
     int16_t tab[2];
     tab[0] = id;
     tab[1] = keys;
-    printf("Send data from id = %d keys =%d\n",tab[0],tab[1]);
     socklen_t serv_addr_size = sizeof(struct sockaddr);
     if (sendto(sock, tab, sizeof(int16_t) * 2, 0,
             (struct sockaddr *) &serv_addr, serv_addr_size) < 0) {

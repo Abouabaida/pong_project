@@ -20,7 +20,7 @@ void* client_loop(void *arg) {
    int16_t tab[BUF_MAX];
    int id;
    while (1) {
-      int length = client_listen(socket, tab);
+      client_listen(socket, tab);
       id = tab[0];
       printf("%d RECEIVING %d\n",tab[0],tab[1]);
       if (id == -1) {
@@ -76,7 +76,6 @@ int main(){
    if((game.mode == SERVER_MODE) || (game.mode == CLIENT_MODE)) {
       server_addr = server_sock_addr(server_ip_addr);
       client_addr = client_sock_addr();
-      printf("BOUABID----> %d\n",game.type);
       if (game.type == SERVER) 
       {
          prepare_server(&sock_server, &server_addr);
